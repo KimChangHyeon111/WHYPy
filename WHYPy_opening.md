@@ -1,6 +1,6 @@
 # WHYPy 초동모임
 
-### 일정
+### TDL
 1. 자기소개
 2. Kaggle & Github 가입해보기
 3. Knowledge Sharing 예시 : Colab - Github 연동해 Push 해보기  
