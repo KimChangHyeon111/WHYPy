@@ -1,4 +1,6 @@
-# 재밌어보이는 데이터를 모아봤습니다. Pandas는 재미가 없으니까 데이터라도 재미난걸 써봅시다.
+# 공부용 재밌어보이는 데이터셋 모음
+
+### 재밌어보이는 데이터를 모아봤습니다. Pandas는 재미가 없으니까 데이터라도 재미난걸 써봅시다.
 
 1. 유튜브 트랜드 데이터 셋 : https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset \
     -> 해당 데이터 셋은 불안정하니 error_bad_lines=False 옵션을 추가해주시는 것이 좋겠습니다.
